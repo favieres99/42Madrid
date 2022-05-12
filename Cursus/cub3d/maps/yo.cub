@@ -1,0 +1,27 @@
+R 1024 960
+
+NO textures/sky_1.xpm
+
+SO textures/sky_1.xpm
+
+WE textures/sky_1.xpm
+
+EA textures/sky_1.xpm
+
+S textures/sprite_1.xpm
+
+SU textures/sprite_2.xpm
+
+SC textures/sprite_3.xpm
+
+F 184,255,39
+
+C 20,198,227
+
+
+
+11111
+10001
+10N01
+10001
+11111
